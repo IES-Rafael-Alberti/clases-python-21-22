@@ -58,3 +58,7 @@ for clave in diccionario.keys():
 # Recorrer sólo los valores
 for valor in diccionario.values():
     print(f"Valor: {valor}")
+
+# Contenido actualizado
+print("Esto es lo nuevo")
+
